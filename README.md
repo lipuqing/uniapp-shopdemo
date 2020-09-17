@@ -2,16 +2,7 @@
 
 
 
-###  :sparkles: 开源不易，给个star吧~  问题交流：648050824
-
- 
-
-[官方地址： http://shopro.top](http://shopro.top)
-
-[码云仓库： https://gitee.com/itmonkey-cn/shopro.git](https://gitee.com/itmonkey-cn/shopro.git)
-
-[github仓库：https://github.com/ITmonkey-cn/shopro.git](https://github.com/ITmonkey-cn/shopro.git)
-
+###  :sparkles: 开源不易，给个star吧~ 
 
 # 部分页面展示
 ![1](https://images.gitee.com/uploads/images/2020/0710/162852_71fb79d2_2264724.jpeg "b1.jpg")
